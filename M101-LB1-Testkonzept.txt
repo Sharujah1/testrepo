@@ -1,0 +1,22 @@
+ Testkonzept
+*************
+
+Allgemein:
+- Sind die Seiten responsiv? Nein
+- Sind alle Elemente vom Wireframe vorhanden? Ja
+
+Navbar/Footer:
+- Ist die Navigation funktional (collapsible)? Ja
+- Ist der Header und Footer auf jeder Seite einheitlich? Ja
+- Wurden die vorgegebenen Texte übernommen (z.B. Kontakt.txt)? Ja
+- Ist das BS4-Dropdown nach rechts ausgerichtet (float-right)? Nein
+- Wird das Logo im Header rund dargestellt? Nein
+- Es sind keine Dead-Links vorhanden? Ja
+- Die Fonts wurden korrekt angewendet? Nein
+
+Kontakt-Formular:
+- Sind die Felder editierbar? Ja
+- Stimmt die Tab-Reihenfolge? Ja
+
+Hauptseite:
+- Wurde das Karussell mit den drei Bildern umgesetzt und ist es funktional? Ja

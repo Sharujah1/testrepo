@@ -1,0 +1,136 @@
+body.index-body {
+  background-color: #f6ae2d;
+}
+
+body.blog-body {
+  background-color: #bce784;
+}
+
+body.kontakt-body {
+  background-color: #f26419;
+}
+
+h1.title {
+  position: absolute;
+  top: 200px;
+  z-index: 1;
+  font-size: 12em;
+  color: #dbfe87;
+}
+
+.img-fluid {
+  position: absolute;
+  z-index: -1;
+  left: 0px;
+  top: 0px;
+  padding: 0px;
+}
+
+.placeholder-img {
+  position: absolute;
+  z-index: -2;
+  left: 0px;
+  top: 0px;
+  padding: 0px;
+}
+
+.container-fluid {
+  display: block;
+  float: none;
+  width: 100%;
+}
+
+div.container {
+  z-index: 100px;
+}
+
+div.card-header {
+  text-align: center;
+  font-size: 4em;
+  padding-top: 30px;
+  padding-bottom: 40px;
+  color: #2f4858;
+}
+
+.row {
+  padding: 10px 30px 20px 30px;
+}
+
+.btn-primary {
+  border-radius: 20px;
+}
+
+.card-img-top {
+  padding: 12px;
+}
+
+.col-lg-12 {
+  padding: 0px;
+}
+
+table.table {
+  background-color: #f26419;
+}
+
+footer.footer {
+  color: #2f4858;
+  background-color: #bce784;
+}
+
+div.text-center {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.justify-content-end {
+  position: absolute;
+  z-index: 1;
+}
+
+div.kontaktformular-body {
+  margin: 100px;
+  padding: 200px 0px 300px 0px;
+}
+
+.blog-cards {
+  margin-top: 20%;
+}
+
+.title {
+  margin: 0px 0px 0px 10px;
+}
+
+.blog-title {
+  margin-left: 40%;
+  margin-right: 50%;
+}
+
+.foodup-title {
+  margin-left: 36%;
+}
+
+@media screen and (max-width: 1037px) {
+  .img {
+    visibility: hidden;
+    display: none;
+  }
+}
+
+.footer-down {
+  margin-top: 1260px;
+}
+
+.btn-warning {
+  margin-top: 600px;
+  padding: 50px;
+  font-size: 3em;
+}
+
+img.logo {
+  border-radius: 100%;
+}
+
+.navbar-design {
+  background-color: #bce784;
+}
+
+/*Kommentar für Abgabe*/

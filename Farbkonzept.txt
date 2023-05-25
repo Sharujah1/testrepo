@@ -1,0 +1,24 @@
+Orange Red (für Hintergrund)
+#F26419
+242, 100, 25
+0, 59, 90, 5
+
+Honey Yellow (für Hintergrund)
+#F6AE2D
+246, 174, 45
+0, 29, 82, 4
+
+Charcoal ()
+#2F4858
+47, 72, 88
+47, 18, 0, 65
+
+Yellow Green Crayola (für Hintergrund)
+#BCE784
+188, 231, 132
+19, 0, 43, 9
+
+Mindaro (für Titel)
+#DBFE87
+219, 254, 135
+14, 0, 47, 0
